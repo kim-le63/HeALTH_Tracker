@@ -4,7 +4,7 @@ Behavioral Analysis Code for HeALTH System
 HeALTH_Tracker
 ------------------------------------------
 
-Included are the files to analyze the behavioral data from the HeALTH platform. After selecting the folder containing the videos of interest, the code will extract out lifespan data and behavioral features from each selected worm of interest within a device longitudinally.
+Included are the MATLAB files to analyze the behavioral data from the HeALTH platform. After selecting the folder containing the videos of interest, the code will extract out lifespan data and behavioral features from each selected worm of interest within a device longitudinally.
 Additionally, after analyzing each individual population, user can then selectively compile trials together (based on experimental conditions) and perform additional, downstream behavioral analysis as needed. 
 
 Note: alphanumericSortFiles created by Stephen Cobeldick (Copyright (c) 2018)
