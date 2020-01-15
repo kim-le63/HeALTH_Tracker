@@ -60,3 +60,5 @@ MAIN OUTPUTS:
 - meanVals, relMeanVals, etc. (mean population values of raw movement over time)
 - PCA
 - LASSO regression model parameters and residuals for inputted data 
+
+Note: Also included is the custom LabVIEW GUI designed to run the HeALTH platform for automated data collection and environmental control ('HeALTH_LabVIEWGUI.zip')
